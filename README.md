@@ -1,5 +1,5 @@
 # [Paanch]() 
-### Paanch is a image editor tool that is made of Javascript. It is a responsive web application where you easily edit and download the image. It contains 5 types of effect.
+### Paanch-Editor is a image editor tool that is made of Javascript. It is a responsive web application where you easily edit and download the image. It contains 5 types of effect.
 * ##### Chroma Key effect.
 * ##### Gray Scale effect.
 * ##### Image Steganography. (must try)
